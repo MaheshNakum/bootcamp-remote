@@ -1,4 +1,4 @@
-1. My Second Entry in the file.
+1. My Second Entry in the file. - added commont for second branch
 2.  Another entry after the remote repo was configured and set
 3.  Made a entry on the remote - hello 3rd line
 4.  Second changes on remote
